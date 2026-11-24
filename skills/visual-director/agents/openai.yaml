@@ -1,0 +1,3 @@
+interface:
+  display_name: "Visual Director"
+  short_description: "Audit UI visual consistency against your design system"
